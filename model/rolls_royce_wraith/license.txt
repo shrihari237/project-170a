@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rolls Royce Wraith
+* source:	https://sketchfab.com/3d-models/rolls-royce-wraith-1307dfd4be4440869687e62ad9f6ac66
+* author:	ehabjundi5 (https://sketchfab.com/ehabjundi5)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rolls Royce Wraith" (https://sketchfab.com/3d-models/rolls-royce-wraith-1307dfd4be4440869687e62ad9f6ac66) by ehabjundi5 (https://sketchfab.com/ehabjundi5) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
